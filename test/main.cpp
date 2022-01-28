@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../source/bingham.h"
+#include "../EigenBingham.h"
 
 using namespace std;
 

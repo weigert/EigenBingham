@@ -12,7 +12,7 @@
     Probably slow as hell...
     Potentially Faster Computation of Partition Function
     Gradient Computation of F
-    A lot of stuff in libbingham is extra crap that isn't needed.
+    A lot of stuff in libbingham is extra stuff that isn't needed.
 */
 
 namespace Bingham {
